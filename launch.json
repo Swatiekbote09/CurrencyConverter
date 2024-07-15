@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CurrencyConverter",
+            "request": "launch",
+            "mainClass": "CurrencyConverter",
+            "projectName": "CurrencyConverter.java_f18dbcaa"
+        },
+        {
+            "type": "java",
+            "name": "Run with AppMap",
+            "request": "launch",
+            "mainClass": "",
+            "vmArgs": "-javaagent:${userHome}\\.appmap\\lib\\java\\appmap.jar"
+        }
+    ]
+}
